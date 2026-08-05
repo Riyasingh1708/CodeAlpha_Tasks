@@ -92,7 +92,7 @@ CodeAlpha_Tasks/
 ### 1️⃣ Clone the Repository
 
 ```bash
-git clone https://github.com/riyasachan94514/CodeAlpha_Tasks.git
+git clone https://github.com/Riyasingh1708/CodeAlpha_Tasks.git
 ```
 
 ### 2️⃣ Navigate to the Project Directory
