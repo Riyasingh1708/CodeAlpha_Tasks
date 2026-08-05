@@ -80,18 +80,8 @@ https://codealphanlp.netlify.app/
 ```
 CodeAlpha_Tasks/
 │
-├── AI-Chatbot/
-│   ├── index.html
-│   ├── style.css
-│   ├── script.js
-│   └── assets/
-│
-├── Language-Translator/
-│   ├── index.html
-│   ├── style.css
-│   ├── script.js
-│   └── assets/
-│
+├── Language Translator/
+├── AI Chatbot/
 └── README.md
 ```
 
